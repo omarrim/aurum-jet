@@ -46,11 +46,13 @@ The report has two pages and three hidden ones: `Filters light` and `Filters dar
 
 ## License and credits
 
-Free to open, study, adapt and reuse, including in your own work. Please don't resell it as a template.
+Aurum Jet is released under the [MIT License](LICENSE): use it, adapt it and share it, including in commercial and client work. Keep the copyright notice.
+
+A few parts come from third parties and keep their own licences, listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md):
 
 - Icons: [Lucide](https://lucide.dev), ISC License (see `LICENSES/lucide.txt`).
-- France map: drawn from [france-geojson](https://github.com/gregoiredavid/france-geojson), under Etalab Open Licence 2.0. Neighbouring countries: World Borders Dataset by thematicmapping.org, CC BY-SA 3.0.
-- World map of the Flights page: [Natural Earth](https://www.naturalearthdata.com), public domain.
+- France map: drawn from [france-geojson](https://github.com/gregoiredavid/france-geojson) (Etalab Open Licence 2.0) and the World Borders Dataset by thematicmapping.org (CC BY-SA 3.0). The map image is shared under CC BY-SA 3.0.
+- World land of the Flights page: [Natural Earth](https://www.naturalearthdata.com), public domain.
 
 ---
 
@@ -78,4 +80,4 @@ Dans Desktop, maintenez **Ctrl** pour cliquer sur les boutons du rapport. Une fo
 - Le « maintenant » du rapport est fixé au **15 octobre 2026, 10 h 43**.
 - Les photos et les portraits ont été générés par IA.
 - Le dossier `images/` contient les images du rapport en fichiers séparés.
-- Libre d'ouvrir, d'étudier, d'adapter et de réutiliser, y compris dans votre travail. Merci de ne pas le revendre comme modèle.
+- Licence MIT (fichier `LICENSE`) : libre d'utiliser, d'adapter et de partager, y compris dans un travail commercial ou pour un client, en gardant la mention de copyright. Les icônes et la carte de France gardent leur propre licence (`THIRD-PARTY-NOTICES.md`).
