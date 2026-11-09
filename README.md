@@ -4,7 +4,7 @@ Aurum Jet is a fictional private jet operator. This is its full Power BI project
 
 It was built from image mockups by an AI agent (Claude Code) working through the Power BI Desktop Bridge, then reviewed page by page.
 
-Made by Omar Arrim, founder of ChartCraft: https://chartcraft.io
+Made by Omar Arrim, founder of ChartCraft. Design your own Power BI report: https://chartcraft.io/forge/try?ref=aurum-jet
 
 ## Open it in 3 steps
 
